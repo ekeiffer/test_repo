@@ -4,3 +4,4 @@ It is cold and dry, but everything is my favorite color.
 
 GitKraken is being used as a GUI-based version control tool.
 
+Needed to make quick edits on website.
